@@ -4,4 +4,4 @@
 
 layout: default
 ---
-Hello
+Hello INDEX
