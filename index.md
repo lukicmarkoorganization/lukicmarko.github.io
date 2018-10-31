@@ -5,3 +5,6 @@
 layout: default
 ---
 Hello INDEX
+
+# H1
+## H2
