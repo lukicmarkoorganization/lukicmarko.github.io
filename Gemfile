@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.7.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
-gem "jekyll-theme-leap-day"
+gem "jekyll-theme-cayman"
 
 # gem "github-pages", group: :jekyll_plugins
 
