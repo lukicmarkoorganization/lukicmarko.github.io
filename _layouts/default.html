@@ -38,12 +38,12 @@
       {{ content }}
       
       <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} HI</a>
-    </li>
-  {% endfor %}
-</ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }} HI!</a>
+          </li>
+        {% endfor %}
+     </ul>
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
