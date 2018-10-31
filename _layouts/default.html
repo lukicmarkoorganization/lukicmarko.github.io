@@ -40,6 +40,8 @@
       <ul>
         {% for post in site.posts %}
           <li>
+            document.write({{ post.url }});
+
             <a href="{{ post.url }}">{{ post.title }} HI!</a>
           </li>
         {% endfor %}
