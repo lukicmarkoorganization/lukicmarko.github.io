@@ -17,7 +17,8 @@ title: Demo APLB
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Some intro test. Nesto jako interesantno
-baseurl: "/lukicmarko.github.io/" # the subpath of your site, e.g. /blog
+# baseurl: "/lukicmarko.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "http://applab.rs/"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
